@@ -3,7 +3,7 @@
 
 public class ControleEstoque {
     public static void main(String[] args) {
-        // Declaração das variáveis aqui
+        
 String nomeDoProduto;
 String categoriaDoProduto;
 float precoDoProduto;
