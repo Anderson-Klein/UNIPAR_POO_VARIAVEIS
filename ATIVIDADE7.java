@@ -5,9 +5,9 @@ public class ControleEstoque {
     public static void main(String[] args) {
      
         String nomeProduto = "Fone de Ouvido";
+        String marcaProduto = "true";
         double precoProduto = 29.99;
         int quantidadeProduto = 10;
-        String marcaProduto = "true";
         
         System.out.println("Dados do Produto:");
         System.out.println("Nome: " + nomeProduto);
